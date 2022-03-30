@@ -1,2 +1,7 @@
 # Consumer-Financial-Complaint-Disputes
-Discovering the key factors of customers' complaints about BA´s products and services
+Discovering the key factors of customers' complaints about BA´s products and services <br>
+<br>
+**Autors:** <br>
+Adonis Abdullah, Lenka Raslova, Jackie Mease, Akshithaa Suresh <br>
+**Data:** <br>
+Kaggle, [link](https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints) for dataset.
