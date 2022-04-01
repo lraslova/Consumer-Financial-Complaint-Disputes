@@ -7,5 +7,5 @@ Discovering BA´s customers complaints via logistic regression, clustering, sent
 Adonis Abdullah, Lenka Raslova, Jackie Mease, Akshithaa Suresh <br>
 **Data:** <br>
 Kaggle, [link](https://www.kaggle.com/datasets/kaggle/us-consumer-finance-complaints) for dataset. <br>
-**Tool:** <br>
+**Tools:** <br>
 SAS, R, MS Excel <br>
